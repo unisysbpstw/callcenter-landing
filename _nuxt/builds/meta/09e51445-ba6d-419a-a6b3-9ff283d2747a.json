@@ -1,0 +1,1 @@
+{"id":"09e51445-ba6d-419a-a6b3-9ff283d2747a","timestamp":1752516267516,"matcher":{"static":{"/.well-known/appspecific/com.chrome.devtools.json":{"redirect":"/"}},"wildcard":{},"dynamic":{}},"prerendered":["/about","/","/features","/solutions/cxp-desktop","/solutions/ai-agent","/products/cxp-desktop","/products/ai-agent"]}
